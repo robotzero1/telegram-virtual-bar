@@ -1,7 +1,7 @@
 const TeleBot = require('telebot');
 const Database = require('better-sqlite3')
 
-//EDIT BELOW
+// EDIT BELOW
 const bot = new TeleBot('TELEGRAMTOKEN');
 const groupid = '-100123123123';
 const groupurl = 'https://t.me/joinchat/ABC';
